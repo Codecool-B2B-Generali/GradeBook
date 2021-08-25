@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GradeBook.ConsoleUI": {
+      "commandName": "Project",
+      "commandLineArgs": "'program name' 'program arguments'"
+    }
+  }
+}
